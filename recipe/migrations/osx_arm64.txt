@@ -852,3 +852,5 @@ physics-tenpy
 scqubits
 meilisearch
 oras
+bedtools
+samtools
